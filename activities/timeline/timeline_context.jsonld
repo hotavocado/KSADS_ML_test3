@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "timeline": "https://raw.githubusercontent.com/hotavocado/KSADS-ML-test3/master/activities/timeline/items/",
+        "timeline": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_test3/master/activities/timeline/items/",
         "dctlo005": {
             "@id": "timeline:dctlo005.jsonld",
             "@type": "@id"
