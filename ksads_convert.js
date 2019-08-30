@@ -42,7 +42,7 @@ if (process.argv.length < 3) {
 let csvPath = process.argv[2];
 let readStream = fs.createReadStream(csvPath).setEncoding('utf-8');
 
-let schemaContextUrl = 'https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld';
+let schemaContextUrl = 'https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld';
 let order = {};
 let visibilityObj = {};
 let scoresObj = {};
@@ -76,7 +76,7 @@ csv
         Object.keys(datas).forEach(form => {
             let fieldList = datas[form]; // all items of an activity
             createFormContextSchema(form, fieldList); // create context for each activity
-            let formContextUrl = `https://raw.githubusercontent.com/hotavocado/KSADS-Mindlogger-Test/master/activities/${form}/${form}_context.jsonld`;
+            let formContextUrl = `https://raw.githubusercontent.com/hotavocado/KSADS-Mindlogger-test3/master/activities/${form}/${form}_context.jsonld`;
             scoresObj = {};
             visibilityObj = {};
             variableMap = [];
@@ -95,7 +95,7 @@ function createFormContextSchema(form, fieldList) {
     // define context file for each form
     let itemOBj = { "@version": 1.1 };
     let formContext = {};
-    itemOBj[form] = `https://raw.githubusercontent.com/hotavocado/KSADS-Mindlogger-Test/master/activities/${form}/items/`;
+    itemOBj[form] = `https://raw.githubusercontent.com/hotavocado/KSADS-Mindlogger-test3/master/activities/${form}/items/`;
     fieldList.forEach( field => {
         let field_name = field['Variable / Field Name'];
         // define item_x urls to be inserted in context for the corresponding form
@@ -116,7 +116,7 @@ function processRow(form, data){
     let rspObj = {};
     let choiceList = [];
     rowData['@context'] = [schemaContextUrl];
-    rowData['@type'] = 'https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld';
+    rowData['@type'] = 'https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld';
 
     // map Choices, Calculations, OR Slider Labels column to choices or scoringLogic key
     if (data['Field Type'] === 'calc')
@@ -271,7 +271,7 @@ function createFormSchema(form, formContextUrl) {
     // console.log(27, form, visibilityObj);
     let jsonLD = {
         "@context": [schemaContextUrl, formContextUrl],
-        "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity.jsonld",
+        "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
         "@id": `${form}_schema`,
         "skos:prefLabel": `${form }_schema`,
         "skos:altLabel": `${form}_schema`,
