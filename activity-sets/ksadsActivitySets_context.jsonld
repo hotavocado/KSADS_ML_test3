@@ -18,7 +18,7 @@
   },
 
    "major_depression": {
-    "@id": "activity_path:timeline/major_depression_schema.jsonld",
+    "@id": "activity_path:major_depression/major_depression_schema.jsonld",
     "@type": "@id"
   }
 
