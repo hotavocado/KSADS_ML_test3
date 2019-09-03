@@ -15,7 +15,7 @@
    "timeline": {
     "@id": "activity_path:timeline/timeline_schema.jsonld",
     "@type": "@id"
-  }
+  },
 
    "major_depression": {
     "@id": "activity_path:timeline/major_depression_schema.jsonld",
