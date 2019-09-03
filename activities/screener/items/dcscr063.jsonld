@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr063",
     "preamble": {
-        "en": "What is the longest period that you have had these thoughts or behaviors?"
+        "en": "NA"
     },
     "ui": {
         "inputType": "text"
@@ -13,12 +13,19 @@
     "question": {
         "en": "N of Years"
     },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
     "schema:description": {
         "en": "YEARS"
     },
-    "responseOptions": {
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+    "@id": "NA"
 }

@@ -4,6 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr004b",
+    "preamble": {
+        "en": "NA"
+    },
     "ui": {
         "inputType": "select"
     },
@@ -307,8 +310,12 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

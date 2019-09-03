@@ -5,17 +5,27 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dctlo020",
     "preamble": {
-        "en": " PEERS"
+        "en": "\n PEERS\n"
     },
     "ui": {
         "inputType": "text"
     },
     "question": {
-        "en": "1. Do you have friends in school? "
+        "en": "1. Do you have friends in school?"
     },
     "responseOptions": {
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

@@ -86,6 +86,10 @@
             "@id": "timeline:ctlo0.jsonld",
             "@type": "@id"
         },
+        "ctlo0a": {
+            "@id": "timeline:ctlo0a.jsonld",
+            "@type": "@id"
+        },
         "dctlo027": {
             "@id": "timeline:dctlo027.jsonld",
             "@type": "@id"
@@ -228,6 +232,10 @@
         },
         "dctlo064": {
             "@id": "timeline:dctlo064.jsonld",
+            "@type": "@id"
+        },
+        "ctlo_end": {
+            "@id": "timeline:ctlo_end.jsonld",
             "@type": "@id"
         }
     }

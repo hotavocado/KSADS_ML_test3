@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr018",
     "preamble": {
-        "en": "Some young people worry a lot. They may often feel nervous, anxious or unable to relax.  They may have times when they worry a lot more than usual."
+        "en": "NA"
     },
     "ui": {
         "inputType": "text"
@@ -14,8 +14,18 @@
         "en": "Who said that you were a worrier?"
     },
     "responseOptions": {
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

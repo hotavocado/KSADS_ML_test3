@@ -5,13 +5,13 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cscr44",
     "preamble": {
-        "en": "INTERVIEWER: Use clinical judgement here to rate positively. The item broken should be something of value like a car window or punching holes in the wall, not minor things like breaking a pencil."
+        "en": "NA"
     },
     "ui": {
         "inputType": "radio"
     },
     "question": {
-        "en": "INTERVIEWER: Was the reaction grossly out of proportion to the precipitating event?"
+        "en": "\nINTERVIEWER: Was the reaction grossly out of proportion to the precipitating event?\n"
     },
     "responseOptions": {
         "choices": [
@@ -34,8 +34,12 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

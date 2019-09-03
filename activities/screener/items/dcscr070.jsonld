@@ -5,13 +5,13 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr070",
     "preamble": {
-        "en": "Some people have times when they feel sad, depressed, irritable or moody. They no longer enjoy the things they used to do; they may feel tired and have less energy than usual.  These changes are much different from their usual selves."
+        "en": "NA"
     },
     "ui": {
         "inputType": "radio"
     },
     "question": {
-        "en": "Has there ever been a time when you felt sad or depressed most of the time?  "
+        "en": "Has there ever been a time when you felt sad or depressed most of the time?"
     },
     "responseOptions": {
         "choices": [
@@ -34,8 +34,12 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

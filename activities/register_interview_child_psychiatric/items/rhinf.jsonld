@@ -4,6 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "rhinf",
+    "preamble": {
+        "en": "NA"
+    },
     "ui": {
         "inputType": "text"
     },
@@ -11,8 +14,18 @@
         "en": "Informant ID"
     },
     "responseOptions": {
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
         "minValue": "1",
         "maxValue": "999",
         "requiredValue": "y"
-    }
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

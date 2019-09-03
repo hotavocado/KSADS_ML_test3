@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr101",
     "preamble": {
-        "en": "DELUSIONS"
+        "en": "NA"
     },
     "ui": {
         "inputType": "radio"
@@ -34,8 +34,12 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

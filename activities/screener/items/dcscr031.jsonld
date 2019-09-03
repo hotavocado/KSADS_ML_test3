@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr031",
     "preamble": {
-        "en": "Some young people do other things that may get them into trouble with adults like breaking rules or getting into trouble with the police or other authorities if they get caught. They may lie a lot, steal, skip school, smoke or drink."
+        "en": "NA"
     },
     "ui": {
         "inputType": "radio"
@@ -34,8 +34,12 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

@@ -5,13 +5,13 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr080",
     "preamble": {
-        "en": "INCREASED ENERGY"
+        "en": "NA"
     },
     "ui": {
         "inputType": "radio"
     },
     "question": {
-        "en": "INTERVIEWER: Do NOT include isolated events, like a slumber party."
+        "en": "Has there ever been a time when you felt like you hardly needed sleep?  \nINTERVIEWER: Do NOT include isolated events, like a slumber party.\n"
     },
     "responseOptions": {
         "choices": [
@@ -34,8 +34,12 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

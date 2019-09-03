@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dctlo061",
     "preamble": {
-        "en": " SUGGEST PROBES"
+        "en": "\n OVERVIEW OF EMOTIONAL OR BEHAVIOR PROBLEMS\n\n\n\n SUGGEST PROBES\n"
     },
     "ui": {
         "inputType": "radio"
@@ -34,8 +34,12 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

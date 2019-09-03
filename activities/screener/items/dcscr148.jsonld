@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr148",
     "preamble": {
-        "en": "TOBACCO"
+        "en": "NA"
     },
     "ui": {
         "inputType": "text"
@@ -14,8 +14,18 @@
         "en": "What is the reason(s) that you never smoked or used tobacco? Other 1"
     },
     "responseOptions": {
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

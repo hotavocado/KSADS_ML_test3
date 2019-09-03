@@ -5,13 +5,13 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr084",
     "preamble": {
-        "en": "IRRITABLE MOOD"
+        "en": "NA"
     },
     "ui": {
         "inputType": "radio"
     },
     "question": {
-        "en": "Has there ever been a time when you felt unusually grouchy, cranky, or irritable; when the smallest things would make you really mad? "
+        "en": "Has there ever been a time when you felt unusually grouchy, cranky, or irritable; when the smallest things would make you really mad?"
     },
     "responseOptions": {
         "choices": [
@@ -34,8 +34,12 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

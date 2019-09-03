@@ -35,7 +35,7 @@ const datas = {};
 
 // Make sure we got a filename on the command line.
 if (process.argv.length < 3) {
-    console.log('Usage: node ' + process.argv[1] + 'KSADS_datadic_new.csv');
+    console.log('Usage: node ' + process.argv[1] + 'KSADS_ML_test3.csv');
     process.exit(1);
 }
 // Read the file.

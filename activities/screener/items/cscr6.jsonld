@@ -1,0 +1,31 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "cscr6",
+    "preamble": {
+        "en": "NA"
+    },
+    "ui": {
+        "inputType": "static"
+    },
+    "question": {
+        "en": "\n\n\nINTERVIEWER: For disruptive behavior disorders (ADHD, ODD, CD), complete the diagnostic section if any of the probes are endorsed.\n"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
+}

@@ -5,13 +5,13 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr078",
     "preamble": {
-        "en": "INCREASED MOTOR ACTIVITY"
+        "en": "NA"
     },
     "ui": {
         "inputType": "radio"
     },
     "question": {
-        "en": "Have there been times when you were much more active than usual, had problems sitting still, or needed to move around a lot? "
+        "en": "Have there been times when you were much more active than usual, had problems sitting still, or needed to move around a lot?"
     },
     "responseOptions": {
         "choices": [
@@ -34,8 +34,12 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

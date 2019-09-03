@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dctlo058",
     "preamble": {
-        "en": " CHILD ABOUT SELF"
+        "en": "NA"
     },
     "ui": {
         "inputType": "text"
@@ -14,8 +14,18 @@
         "en": "Have you had any problems with your family or your friends?"
     },
     "responseOptions": {
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr024",
     "preamble": {
-        "en": "Some children have trouble paying attention and following instructions. They may be distracted easily and forget what they are supposed to do. These children often have difficulty staying still, are always on the go and often interrupt people. "
+        "en": "NA"
     },
     "ui": {
         "inputType": "radio"
@@ -34,8 +34,12 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

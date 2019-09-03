@@ -5,13 +5,13 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr088",
     "preamble": {
-        "en": "IRRITABLE MOOD"
+        "en": "NA"
     },
     "ui": {
         "inputType": "radio"
     },
     "question": {
-        "en": "If yes, On the days you felt this way, how much of the day did it last?  "
+        "en": "If yes, On the days you felt this way, how much of the day did it last?"
     },
     "responseOptions": {
         "choices": [
@@ -46,8 +46,12 @@
                 }
             }
         ],
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }

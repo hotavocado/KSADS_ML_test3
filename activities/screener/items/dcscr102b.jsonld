@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr102b",
     "preamble": {
-        "en": "DELUSIONS"
+        "en": "NA"
     },
     "ui": {
         "inputType": "text"
@@ -13,12 +13,19 @@
     "question": {
         "en": "Example 2"
     },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
     "schema:description": {
         "en": "EXAMPLE"
     },
-    "responseOptions": {
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+    "@id": "NA"
 }

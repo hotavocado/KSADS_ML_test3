@@ -4,18 +4,28 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr004c",
+    "preamble": {
+        "en": "NA"
+    },
     "ui": {
         "inputType": "text"
     },
     "question": {
         "en": "Duration of Interview"
     },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
     "schema:description": {
         "en": "MINUTES"
     },
-    "responseOptions": {
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+    "@id": "NA"
 }

@@ -5,17 +5,27 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dctlo016",
     "preamble": {
-        "en": " SCHOOL "
+        "en": "\n SCHOOL \n"
     },
     "ui": {
         "inputType": "text"
     },
     "question": {
-        "en": "1. When did your last school year begin? When did it end? When did summer break begin?  "
+        "en": "1. When did your last school year begin? When did it end? When did summer break begin?"
     },
     "responseOptions": {
-        "minValue": "",
-        "maxValue": "",
-        "requiredValue": ""
-    }
+        "choices": [
+            {
+                "schema:value": null,
+                "schema:name": {}
+            }
+        ],
+        "minValue": "NA",
+        "maxValue": "NA",
+        "requiredValue": "NA"
+    },
+    "schema:description": {
+        "en": "NA"
+    },
+    "@id": "NA"
 }
