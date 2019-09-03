@@ -4,11 +4,14 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr051",
+    "preamble": {
+        "en": "\nAGORAPHOBIA"
+    },
     "ui": {
         "inputType": "radio"
     },
     "question": {
-        "en": "\n[Looking at this card]\nHave you ever been very nervous or afraid of being in crowds, going to public places, traveling by yourself, traveling away from home, or using public transportation like a bus or the metro?"
+        "en": "\nHave you ever been very nervous or afraid of being in crowds, going to public places, traveling by yourself, traveling away from home, or using public transportation like a bus or the metro?"
     },
     "responseOptions": {
         "choices": [

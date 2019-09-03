@@ -4,6 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr070",
+    "preamble": {
+        "en": "DEPRESSION"
+    },
     "ui": {
         "inputType": "radio"
     },

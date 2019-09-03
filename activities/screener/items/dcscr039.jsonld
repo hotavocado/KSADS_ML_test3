@@ -4,6 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr039",
+    "preamble": {
+        "en": "SPECIFIC PHOBIA \nHave you ever been very nervous or afraid of:"
+    },
     "ui": {
         "inputType": "radio"
     },

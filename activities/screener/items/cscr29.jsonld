@@ -4,8 +4,11 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cscr29",
+    "preamble": {
+        "en": "DEPRESSION"
+    },
     "ui": {
-        "inputType": "static"
+        "inputType": "text"
     },
     "question": {
         "en": "\n\nINTERVIEWER: Sometimes a child will initially give a negative answer; if current sadness/depressed affect/state is evident, ask about current mood.\n"

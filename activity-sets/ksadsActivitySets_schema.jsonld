@@ -13,7 +13,8 @@
     "order": [
       "register_interview_child_psychiatric",
       "screener",
-      "timeline"                                               
+      "timeline",
+      "major_depression"                                               
       ],
     "shuffle": false
   }

@@ -4,11 +4,14 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cscr25",
+    "preamble": {
+        "en": "OBSESSIVE COMPULSIVE DISORDER"
+    },
     "ui": {
-        "inputType": "static"
+        "inputType": "text"
     },
     "question": {
-        "en": "What is the longest period that you have had these thoughts or behaviors?"
+        "en": "What is the longest period that you have had these thoughts or behaviors? (N Days, Weeks, Months, Years)"
     },
     "responseOptions": {
         "minValue": "",

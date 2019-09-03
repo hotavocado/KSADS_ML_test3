@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cscr50",
     "ui": {
-        "inputType": "static"
+        "inputType": "text"
     },
     "question": {
         "en": "\nSUBSTANCE USE\n"

@@ -1,0 +1,21 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "cmdd39b",
+    "preamble": {
+        "en": "WORST EPISODE: HELP-SEEKING TREATMENT (LIFETIME)"
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "\n\nIf from multiple people:\n Who did you get help from the first time?"
+    },
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "cmdd44",
+    "preamble": {
+        "en": "EPISODES/COURSE (LIFETIME)"
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "\nINTERVIEWER: If No or Unknown, END Major Depression section.\n"
+    },
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}

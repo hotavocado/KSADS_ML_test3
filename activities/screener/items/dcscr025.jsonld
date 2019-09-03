@@ -4,6 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr025",
+    "preamble": {
+        "en": "ATTENTION DEFICIT HYPERACTIVITY DISORDER (ADHD) \nDid you often:"
+    },
     "ui": {
         "inputType": "radio"
     },

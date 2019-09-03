@@ -1,0 +1,21 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "cmdd1",
+    "preamble": {
+        "en": "CURRENT RECENT EPISODE"
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "How long did you feel this way? (N Days, Weeks, Months)"
+    },
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}

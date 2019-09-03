@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dctlo061",
     "preamble": {
-        "en": "\n OVERVIEW OF EMOTIONAL OR BEHAVIOR PROBLEMS\n\n\n\n SUGGEST PROBES\n"
+        "en": "\n OVERVIEW OF EMOTIONAL OR BEHAVIOR PROBLEMS"
     },
     "ui": {
         "inputType": "radio"

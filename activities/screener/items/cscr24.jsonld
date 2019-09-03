@@ -4,11 +4,14 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cscr24",
+    "preamble": {
+        "en": "OBSESSIVE COMPULSIVE DISORDER"
+    },
     "ui": {
-        "inputType": "static"
+        "inputType": "text"
     },
     "question": {
-        "en": "\nOBSESSIVE COMPULSIVE DISORDER\n\nSome people have unpleasant thoughts or feelings to do things that keep coming back over and over again and they can't get them out of their head. These thoughts sometimes make these people feel like they have to do things over and over again (like washing their hands, counting, or checking things). \n"
+        "en": "\nSome people have unpleasant thoughts or feelings to do things that keep coming back over and over again and they can't get them out of their head. These thoughts sometimes make these people feel like they have to do things over and over again (like washing their hands, counting, or checking things)."
     },
     "responseOptions": {
         "minValue": "",

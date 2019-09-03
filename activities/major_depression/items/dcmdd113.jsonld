@@ -1,0 +1,24 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcmdd113",
+    "preamble": {
+        "en": "WORST EPISODE: HELP-SEEKING TREATMENT (LIFETIME)"
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "Specify (Professional/Treatment)"
+    },
+    "schema:description": {
+        "en": "PROFESSIONAL/TREATMENT"
+    },
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}

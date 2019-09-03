@@ -5,13 +5,13 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dctlo010",
     "preamble": {
-        "en": "\nNow I'd like to learn more about you (your child), where you live, your school, your family and your friends.\n\n\n HOME\n"
+        "en": "\n HOME"
     },
     "ui": {
         "inputType": "text"
     },
     "question": {
-        "en": "Where did you first live when you were growing up?"
+        "en": "Now I'd like to learn more about you (your child), where you live, your school, your family and your friends. Where did you first live when you were growing up?"
     },
     "responseOptions": {
         "minValue": "",

@@ -1,0 +1,18 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "cmdd42",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "\nEPISODES/COURSE (LIFETIME)\n\nINTERVIEWER: The following questions about course address episodes of depression across the lifetime. \n"
+    },
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}

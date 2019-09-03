@@ -1,0 +1,21 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "cmdd26",
+    "preamble": {
+        "en": "WORST EPISODE: HALLUCINATIONS"
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "For how long did you have them? (N Days, Weeks)"
+    },
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}

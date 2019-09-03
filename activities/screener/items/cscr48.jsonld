@@ -4,11 +4,14 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cscr48",
+    "preamble": {
+        "en": "POST TRAUMATIC STRESS"
+    },
     "ui": {
-        "inputType": "static"
+        "inputType": "text"
     },
     "question": {
-        "en": "\nPOST TRAUMATIC STRESS\n\nNow I'm going to ask you about upsetting things that sometimes happen to children or teenagers.\n"
+        "en": "\n\n\nNow I'm going to ask you about upsetting things that sometimes happen to children or teenagers."
     },
     "responseOptions": {
         "minValue": "",

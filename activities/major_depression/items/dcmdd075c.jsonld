@@ -1,0 +1,24 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcmdd075c",
+    "preamble": {
+        "en": "WORST EPISODE: DELUSIONS"
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "Example 3"
+    },
+    "schema:description": {
+        "en": "EXAMPLE"
+    },
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}

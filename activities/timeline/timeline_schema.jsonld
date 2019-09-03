@@ -97,10 +97,6 @@
             "isAbout": "ctlo0"
         },
         {
-            "variableName": "ctlo0a",
-            "isAbout": "ctlo0a"
-        },
-        {
             "variableName": "dctlo027",
             "isAbout": "dctlo027"
         },
@@ -272,7 +268,6 @@
             "dctlo025",
             "dctlo026",
             "ctlo0",
-            "ctlo0a",
             "dctlo027",
             "dctlo028",
             "dctlo031",
@@ -334,7 +329,6 @@
             "dctlo025": true,
             "dctlo026": true,
             "ctlo0": true,
-            "ctlo0a": " ctlo0   == '1'",
             "dctlo027": " ctlo0   == '0'",
             "dctlo028": " ctlo0   == '0'",
             "dctlo031": " ctlo0   == '0'",

@@ -4,6 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dctlo060",
+    "preamble": {
+        "en": "\n CHILD ABOUT SELF\n"
+    },
     "ui": {
         "inputType": "text"
     },

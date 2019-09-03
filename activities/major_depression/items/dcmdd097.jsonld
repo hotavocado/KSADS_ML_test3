@@ -1,0 +1,21 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcmdd097",
+    "preamble": {
+        "en": "WORST EPISODE: BEREAVEMENT"
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "Specify (Relationship)"
+    },
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}

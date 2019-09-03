@@ -4,11 +4,14 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cscr37",
+    "preamble": {
+        "en": "PSYCHOSIS"
+    },
     "ui": {
-        "inputType": "static"
+        "inputType": "text"
     },
     "question": {
-        "en": "\nPSYCHOSIS\n\nNow I am going to ask you some questions about things that happen to people during stressful times.\n"
+        "en": "\n\n\nNow I am going to ask you some questions about things that happen to people during stressful times. \n\nINTERVIEWER: When asking psychosis questions, ask child/parent to give examples."
     },
     "responseOptions": {
         "minValue": "",

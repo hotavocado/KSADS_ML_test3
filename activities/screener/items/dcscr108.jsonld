@@ -4,6 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr108",
+    "preamble": {
+        "en": "\nSUICIDE\n"
+    },
     "ui": {
         "inputType": "radio"
     },

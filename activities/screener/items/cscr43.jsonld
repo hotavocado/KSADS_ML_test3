@@ -4,8 +4,11 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cscr43",
+    "preamble": {
+        "en": "\nINTERMITTENT EXPLOSIVE DISORDER\n"
+    },
     "ui": {
-        "inputType": "static"
+        "inputType": "text"
     },
     "question": {
         "en": "\nINTERVIEWER: Use clinical judgement here to rate positively. The item broken should be something of value like a car window or punching holes in the wall, not minor things like breaking a pencil.\n"

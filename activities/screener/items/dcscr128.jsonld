@@ -4,6 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr128",
+    "preamble": {
+        "en": "\nSUBSTANCE USE\n"
+    },
     "ui": {
         "inputType": "select"
     },

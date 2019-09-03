@@ -4,6 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr052",
+    "preamble": {
+        "en": "\nAGORAPHOBIA"
+    },
     "ui": {
         "inputType": "radio"
     },

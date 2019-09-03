@@ -4,6 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dctlo047",
+    "preamble": {
+        "en": "\n\n PARENT ABOUT CHILD \n"
+    },
     "ui": {
         "inputType": "radio"
     },
