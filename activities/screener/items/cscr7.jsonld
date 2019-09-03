@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cscr7",
-    "preamble": {
-        "en": "NA"
-    },
     "ui": {
         "inputType": "static"
     },
@@ -14,18 +11,8 @@
         "en": "\nATTENTION DEFICIT HYPERACTIVITY DISORDER (ADHD) \n\nSome children have trouble paying attention and following instructions. They may be distracted easily and forget what they are supposed to do. These children often have difficulty staying still, are always on the go and often interrupt people. \n"
     },
     "responseOptions": {
-        "choices": [
-            {
-                "schema:value": null,
-                "schema:name": {}
-            }
-        ],
-        "minValue": "NA",
-        "maxValue": "NA",
-        "requiredValue": "NA"
-    },
-    "schema:description": {
-        "en": "NA"
-    },
-    "@id": "NA"
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
 }

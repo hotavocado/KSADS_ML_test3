@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dctlo041",
-    "preamble": {
-        "en": "NA"
-    },
     "ui": {
         "inputType": "radio"
     },
@@ -52,12 +49,8 @@
                 }
             }
         ],
-        "minValue": "NA",
-        "maxValue": "NA",
-        "requiredValue": "NA"
-    },
-    "schema:description": {
-        "en": "NA"
-    },
-    "@id": "NA"
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
 }

@@ -14,18 +14,8 @@
         "en": "Where did you first live when you were growing up?"
     },
     "responseOptions": {
-        "choices": [
-            {
-                "schema:value": null,
-                "schema:name": {}
-            }
-        ],
-        "minValue": "NA",
-        "maxValue": "NA",
-        "requiredValue": "NA"
-    },
-    "schema:description": {
-        "en": "NA"
-    },
-    "@id": "NA"
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
 }

@@ -4,28 +4,18 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr007",
-    "preamble": {
-        "en": "NA"
-    },
     "ui": {
         "inputType": "text"
     },
     "question": {
         "en": "How many separate times did you go to see someone?\n\n\nINTERVIEWER: Clarify that these are distinct periods of outpatient services, not individual appointments.\n"
     },
-    "responseOptions": {
-        "choices": [
-            {
-                "schema:value": null,
-                "schema:name": {}
-            }
-        ],
-        "minValue": "NA",
-        "maxValue": "NA",
-        "requiredValue": "NA"
-    },
     "schema:description": {
         "en": "TIMES"
     },
-    "@id": "NA"
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
 }

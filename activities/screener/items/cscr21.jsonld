@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cscr21",
-    "preamble": {
-        "en": "NA"
-    },
     "ui": {
         "inputType": "static"
     },
@@ -14,18 +11,8 @@
         "en": "\nINTERVIEWER: Read the card to ages 7-12 or for those children with learning/reading problems.\n\nParticipant Card 4 (Other fears) \n"
     },
     "responseOptions": {
-        "choices": [
-            {
-                "schema:value": null,
-                "schema:name": {}
-            }
-        ],
-        "minValue": "NA",
-        "maxValue": "NA",
-        "requiredValue": "NA"
-    },
-    "schema:description": {
-        "en": "NA"
-    },
-    "@id": "NA"
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
 }

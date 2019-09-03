@@ -14,18 +14,8 @@
         "en": "1. When did your last school year begin? When did it end? When did summer break begin?"
     },
     "responseOptions": {
-        "choices": [
-            {
-                "schema:value": null,
-                "schema:name": {}
-            }
-        ],
-        "minValue": "NA",
-        "maxValue": "NA",
-        "requiredValue": "NA"
-    },
-    "schema:description": {
-        "en": "NA"
-    },
-    "@id": "NA"
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
 }

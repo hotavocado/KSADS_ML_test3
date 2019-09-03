@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "ctlo0a",
-    "preamble": {
-        "en": "NA"
-    },
     "ui": {
         "inputType": "static"
     },
@@ -14,18 +11,8 @@
         "en": "\n\nINTERVIEWER: This section should not be completed if child is out of high school.\n"
     },
     "responseOptions": {
-        "choices": [
-            {
-                "schema:value": null,
-                "schema:name": {}
-            }
-        ],
-        "minValue": "NA",
-        "maxValue": "NA",
-        "requiredValue": "NA"
-    },
-    "schema:description": {
-        "en": "NA"
-    },
-    "@id": "NA"
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
 }

@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cscr11",
-    "preamble": {
-        "en": "NA"
-    },
     "ui": {
         "inputType": "static"
     },
@@ -14,18 +11,8 @@
         "en": "\nSPECIFIC PHOBIA\n\nSome people have fears of things, like spiders, heights, elevators, dogs, blood, or shots.  When they are faced with the thing that they fear, they become very frightened and upset even though there is no real danger.  They may go out of their way to stay away from the thing that they fear.\n"
     },
     "responseOptions": {
-        "choices": [
-            {
-                "schema:value": null,
-                "schema:name": {}
-            }
-        ],
-        "minValue": "NA",
-        "maxValue": "NA",
-        "requiredValue": "NA"
-    },
-    "schema:description": {
-        "en": "NA"
-    },
-    "@id": "NA"
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
 }

@@ -85,19 +85,19 @@
         ],
         "shuffle": false,
         "visibility": {
-            "redcapid": "NA",
-            "famid": "NA",
-            "indid": "NA",
-            "rhinf": "NA",
-            "studyid_calc": "NA",
-            "dcscr001a": "NA",
-            "dcscr002a": "NA",
-            "dcscr003a": "NA",
-            "dcscr004a": "NA",
-            "dcscr004b": "NA",
-            "dcscr004c": "NA",
-            "entry": "NA",
-            "comp_only": "NA"
+            "redcapid": true,
+            "famid": true,
+            "indid": true,
+            "rhinf": true,
+            "studyid_calc": true,
+            "dcscr001a": true,
+            "dcscr002a": true,
+            "dcscr003a": true,
+            "dcscr004a": true,
+            "dcscr004b": true,
+            "dcscr004c": true,
+            "entry": true,
+            "comp_only": true
         }
     }
 }

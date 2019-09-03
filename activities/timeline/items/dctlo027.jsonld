@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dctlo027",
-    "preamble": {
-        "en": "NA"
-    },
     "ui": {
         "inputType": "select"
     },
@@ -106,12 +103,11 @@
                 }
             }
         ],
-        "minValue": "NA",
-        "maxValue": "NA",
-        "requiredValue": "NA"
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
     },
     "schema:description": {
         "en": "MONTH"
-    },
-    "@id": "NA"
+    }
 }

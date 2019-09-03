@@ -4,28 +4,18 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dctlo028",
-    "preamble": {
-        "en": "NA"
-    },
     "ui": {
         "inputType": "text"
     },
     "question": {
         "en": "Date at beginning of school year (Year)"
     },
-    "responseOptions": {
-        "choices": [
-            {
-                "schema:value": null,
-                "schema:name": {}
-            }
-        ],
-        "minValue": "1900",
-        "maxValue": "9999",
-        "requiredValue": "NA"
-    },
     "schema:description": {
         "en": "YEAR"
     },
-    "@id": "NA"
+    "responseOptions": {
+        "minValue": "1900",
+        "maxValue": "9999",
+        "requiredValue": ""
+    }
 }

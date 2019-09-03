@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "redcapid",
-    "preamble": {
-        "en": "NA"
-    },
     "ui": {
         "inputType": "text"
     },
@@ -14,18 +11,8 @@
         "en": "RedCAP ID (Famid-Indid-Rhinf)\n\nEnter as NNNN-NNN-NNN"
     },
     "responseOptions": {
-        "choices": [
-            {
-                "schema:value": null,
-                "schema:name": {}
-            }
-        ],
-        "minValue": "NA",
-        "maxValue": "NA",
+        "minValue": "",
+        "maxValue": "",
         "requiredValue": "y"
-    },
-    "schema:description": {
-        "en": "NA"
-    },
-    "@id": "NA"
+    }
 }

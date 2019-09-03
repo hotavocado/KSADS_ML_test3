@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "studyid_calc",
-    "preamble": {
-        "en": "NA"
-    },
     "ui": {
         "inputType": "number",
         "hidden": true
@@ -14,13 +11,9 @@
     "question": {
         "en": "Study ID (Calculated)"
     },
-    "schema:description": {
-        "en": "NA"
-    },
     "responseOptions": {
-        "minValue": "NA",
-        "maxValue": "NA",
-        "requiredValue": "NA"
-    },
-    "@id": "NA"
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
 }
