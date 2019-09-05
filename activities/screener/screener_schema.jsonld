@@ -13,6 +13,10 @@
     "scoringLogic": {},
     "variableMap": [
         {
+            "variableName": "cscr0",
+            "isAbout": "cscr0"
+        },
+        {
             "variableName": "dcscr005",
             "isAbout": "dcscr005"
         },
@@ -47,26 +51,11 @@
         {
             "variableName": "dcscr013",
             "isAbout": "dcscr013"
-        },
-        {
-            "variableName": "dctlo042",
-            "isAbout": "dctlo042"
-        },
-        {
-            "variableName": "dctlo043",
-            "isAbout": "dctlo043"
-        },
-        {
-            "variableName": "dctlo044",
-            "isAbout": "dctlo044"
-        },
-        {
-            "variableName": "dctlo045",
-            "isAbout": "dctlo045"
         }
     ],
     "ui": {
         "order": [
+            "cscr0",
             "dcscr005",
             "dcscr006",
             "dcscr007",
@@ -75,14 +64,11 @@
             "dcscr010",
             "dcscr011",
             "dcscr012",
-            "dcscr013",
-            "dctlo042",
-            "dctlo043",
-            "dctlo044",
-            "dctlo045"
+            "dcscr013"
         ],
         "shuffle": false,
         "visibility": {
+            "cscr0": true,
             "dcscr005": true,
             "dcscr006": " dcscr005   == '1'",
             "dcscr007": " dcscr005   == '1'",
@@ -91,11 +77,7 @@
             "dcscr010": " dcscr005   == '1'",
             "dcscr011": " dcscr010   == '1'",
             "dcscr012": " dcscr005   == '0' ||  dcscr010   == '0'",
-            "dcscr013": " dcscr012   == '1'",
-            "dctlo042": true,
-            "dctlo043": " dctlo042   == '1'",
-            "dctlo044": " dctlo042   == '1'",
-            "dctlo045": " dctlo042   == '1'"
+            "dcscr013": " dcscr012   == '1'"
         }
     }
 }
