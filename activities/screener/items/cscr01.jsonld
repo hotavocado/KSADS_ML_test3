@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cscr01",
-    "preamble": {
-        "en": "GENERAL PROBES"
-    },
     "ui": {
         "inputType": "text"
     },
