@@ -3,15 +3,15 @@
         "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
-    "skos:altLabel": "starplachna",
+    "skos:altLabel": "cscr01",
     "preamble": {
-        "en": "STAR PLACHNA"
+        "en": "GENERAL PROBES"
     },
     "ui": {
         "inputType": "text"
     },
     "question": {
-        "en": "ORA ORA ORA ORA ORA ORA ORA ORA ORAAAA!!!!"
+        "en": "\n\n\nINTERVIEWER: Use timeline to date treatment, symptoms, etc. \n\n\n\n\n"
     },
     "responseOptions": {
         "minValue": "",
