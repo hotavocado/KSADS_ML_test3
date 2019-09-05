@@ -3,15 +3,15 @@
         "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
-    "skos:altLabel": "cscr0",
+    "skos:altLabel": "theworld",
     "preamble": {
-        "en": "GENERAL PROBES"
+        "en": "DIO'S WORLD"
     },
     "ui": {
         "inputType": "text"
     },
     "question": {
-        "en": "\n\n\nINTERVIEWER: Use timeline to date treatment, symptoms, etc. \n\n\n\n\n"
+        "en": "ZA WARUDO!!"
     },
     "responseOptions": {
         "minValue": "",
