@@ -13,6 +13,10 @@
     "scoringLogic": {},
     "variableMap": [
         {
+            "variableName": "cscr0",
+            "isAbout": "cscr0"
+        },
+        {
             "variableName": "dcscr005",
             "isAbout": "dcscr005"
         },
@@ -51,6 +55,7 @@
     ],
     "ui": {
         "order": [
+            "cscr0",
             "dcscr005",
             "dcscr006",
             "dcscr007",
@@ -63,6 +68,7 @@
         ],
         "shuffle": false,
         "visibility": {
+            "cscr0": true,
             "dcscr005": true,
             "dcscr006": " dcscr005   == '1'",
             "dcscr007": " dcscr005   == '1'",
