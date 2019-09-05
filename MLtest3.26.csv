@@ -1,0 +1,58 @@
+Variable / Field Name,Form Name,Section Header,Field Type,Field Label,"Choices, Calculations, OR Slider Labels",Field Note,Text Validation Type OR Show Slider Number,Text Validation Min,Text Validation Max,Identifier?,Branching Logic (Show field only if...),Required Field?,Custom Alignment,Question Number (surveys only),Matrix Group Name,Matrix Ranking?,Field Annotation
+cscr0,timeline,GENERAL PROBES,text,"
+
+
+INTERVIEWER: Use timeline to date treatment, symptoms, etc. 
+
+
+
+
+",,,,,,,,,,,,,
+ctlo0,timeline,"
+ SCHOOL FUNCTIONING
+
+",radio,The next questions refer to the current school year (when on summer break refer to the past school year). Is the child out of high school?,"0, No | 1, Yes",,,,,,,,RH,,,,
+dctlo027,timeline,,dropdown,Date at beginning of school year (Month),"1, 1 | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 | 8, 8 | 9, 9 | 10, 10 | 11, 11 | 12, 12 | 97, 97 | 98, 98 | 99, 99",MONTH,autocomplete,,,,[ctlo0] = '0',,,,,,
+dctlo028,timeline,,text,Date at beginning of school year (Year),,YEAR,number,1900,9999,,[ctlo0] = '0',,,,,,
+dctlo031,timeline,"
+
+How are you doing in school? What subjects do you have? What kind of grades do you get?
+
+Please rate academic subjects on the following scale. List any additional academic subjects and review ratings. 
+",radio,Reading/English,"1, Above Average | 2, Average | 3, Below Average | 4, Failing",,,,,,[ctlo0] = '0',,,,dctlo031,,
+dctlo032,timeline,,radio,Arithmetic/Math,"1, Above Average | 2, Average | 3, Below Average | 4, Failing",,,,,,[ctlo0] = '0',,,,dctlo031,,
+dctlo33,timeline,,text,Other subject 1,,OTHER SUBJECT 1,,,,,[ctlo0] = '0',,,,,,
+dctlo34,timeline,,radio,Other subject 1,"1, Above Average | 2, Average | 3, Below Average | 4, Failing",,,,,,[ctlo0] = '0',,LH,,,,
+dctlo35,timeline,,text,Other subject 2,,OTHER SUBJECT 2,,,,,[ctlo0] = '0',,,,,,
+dctlo36,timeline,,radio,Other subject 2,"1, Above Average | 2, Average | 3, Below Average | 4, Failing",,,,,,[ctlo0] = '0',,LH,,,,
+dctlo37,timeline,,text,Other subject 3,,OTHER SUBJECT 3,,,,,[ctlo0] = '0',,,,,,
+dctlo38,timeline,,radio,Other subject 3,"1, Above Average | 2, Average | 3, Below Average | 4, Failing",,,,,,[ctlo0] = '0',,LH,,,,
+dctlo039,timeline,,radio,"Are there different reading and arithmetic groups in your class at school? Which group are you in? Review ratings (specify academic ""track"" or group). If discrepancies exist, make notes but code for highest achievement.","1, Above average | 2, Average | 3, Below average | 4, Far below average | 9, Not applicable",,,,,,[ctlo0] = '0',,LH,,,,
+dctlo040,timeline,,radio,"During the school year, how much TV do you usually watch every week? After school? After dinner? On Saturday or Sunday?","1, 7 or fewer hours per week | 2, 8-14 hours per week | 3, 15-21 hours per week | 4, 22-35 hours per week | 5, Greater than 35 hours per week | 9, Unk",,,,,,[ctlo0] = '0',,,,dctlo040,,
+dctlo041,timeline,,radio,How much time do you spend playing video/computer games every week? After school? After dinner? On Saturday or Sunday?,"1, 7 or fewer hours per week | 2, 8-14 hours per week | 3, 15-21 hours per week | 4, 22-35 hours per week | 5, Greater than 35 hours per week | 9, Unk",,,,,,[ctlo0] = '0',,,,dctlo040,,
+cscr01,screener,,text,,,,,,,,,,,,,,
+dcscr005,screener,TREATMENT,radio,"Have you ever talked to a counselor, psychologist, social worker, psychiatrist or some other professional about your feelings or problems with your mood or behaviors? Or are you currently taking medication because of your emotions and/or behaviors?","0, No | 1, Yes | 9, Unk",,,,,,,,LH,,,,
+dcscr006,screener,TREATMENT,notes,Who was it and why did you speak to them?,,,,,,,[dcscr005] = '1',,LH,,,,
+dcscr007,screener,TREATMENT,text,"How many separate times did you go to see someone?
+
+
+INTERVIEWER: Clarify that these are distinct periods of outpatient services, not individual appointments.
+",,TIMES,number,,,,[dcscr005] = '1',,,,,,
+dcscr008,screener,TREATMENT,radio,How long did you see someone in total?,"1, Less than 6 months | 2, 6 months to 2 years | 3, Over 2 years",,,,,,[dcscr005] = '1',,LH,,,,
+dcscr009,screener,TREATMENT,text,About how many talk sessions did you have in total?,,NUMBER,number,,,,[dcscr005] = '1',,,,,,
+dcscr010,screener,"
+IN-PATIENT TREATMENT
+",radio,"Have you ever had to go to a hospital and stay overnight because of problems with your mood, feelings, or how you were acting?
+
+
+INTERVIEWER:  Refer to Table of Hospitalizations in the Medical History section. 
+","0, No | 1, Yes | 9, Unk",,,,,,[dcscr005] = '1',,LH,,,,
+dcscr011,screener,"
+IN-PATIENT TREATMENT
+",notes,When and what happened that lead to you going to the hospital?,,,,,,,[dcscr010] = '1',,LH,,,,
+dcscr012,screener,"
+HELP SUGGESTED
+",radio,"Have you or anyone else (like your friends, parents, or teachers) ever thought you needed help because of problems with your mood, feelings, or how you were acting?","0, No | 1, Yes | 9, Unk",,,,,,[dcscr005] = '0' or [dcscr010] = '0',,LH,,,,
+dcscr013,screener,"
+HELP SUGGESTED
+",notes,"If so, who and what did they say?",,,,,,,[dcscr012] = '1',,LH,,,,

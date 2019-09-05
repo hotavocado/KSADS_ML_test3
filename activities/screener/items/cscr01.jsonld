@@ -7,9 +7,6 @@
     "ui": {
         "inputType": "text"
     },
-    "question": {
-        "en": "\n\n\nINTERVIEWER: Use timeline to date treatment, symptoms, etc. \n\n\n\n\n"
-    },
     "responseOptions": {
         "minValue": "",
         "maxValue": "",
