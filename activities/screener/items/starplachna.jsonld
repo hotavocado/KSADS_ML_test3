@@ -3,15 +3,15 @@
         "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
-    "skos:altLabel": "theworld",
+    "skos:altLabel": "starplachna",
     "preamble": {
-        "en": "DIO'S WORLD"
+        "en": "STAR PLACHNA"
     },
     "ui": {
         "inputType": "text"
     },
     "question": {
-        "en": "ZA WARUDO!!"
+        "en": "ORA ORA ORA ORA ORA ORA ORA ORA ORAAAA!!!!"
     },
     "responseOptions": {
         "minValue": "",

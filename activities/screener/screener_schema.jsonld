@@ -13,6 +13,10 @@
     "scoringLogic": {},
     "variableMap": [
         {
+            "variableName": "starplachna",
+            "isAbout": "starplachna"
+        },
+        {
             "variableName": "dcscr005",
             "isAbout": "dcscr005"
         },
@@ -51,6 +55,7 @@
     ],
     "ui": {
         "order": [
+            "starplachna",
             "dcscr005",
             "dcscr006",
             "dcscr007",
@@ -63,6 +68,7 @@
         ],
         "shuffle": false,
         "visibility": {
+            "starplachna": true,
             "dcscr005": true,
             "dcscr006": " dcscr005   == '1'",
             "dcscr007": " dcscr005   == '1'",
