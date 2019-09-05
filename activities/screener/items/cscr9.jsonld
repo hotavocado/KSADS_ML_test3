@@ -1,0 +1,21 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "cscr9",
+    "preamble": {
+        "en": "OPPOSITIONAL DEFIANT DISORDER (ODD)"
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "\n\n\nSome children and adolescents do things that can get them into trouble with adults, like getting angry, arguing or talking back to adults, refusing to do what adults ask them to do, annoying people on purpose, or being touchy, grouchy, or irritable."
+    },
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "cscr28",
+    "preamble": {
+        "en": "DEPRESSION"
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "\nSome people have times when they feel sad, depressed, irritable or moody. They no longer enjoy the things they used to do; they may feel tired and have less energy than usual.  These changes are much different from their usual selves.\n"
+    },
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}

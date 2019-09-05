@@ -1,0 +1,21 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcscr058",
+    "preamble": {
+        "en": "OBSESSIVE COMPULSIVE DISORDER"
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "Please explain:"
+    },
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}
