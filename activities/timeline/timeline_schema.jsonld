@@ -13,8 +13,8 @@
     "scoringLogic": {},
     "variableMap": [
         {
-            "variableName": "theworld",
-            "isAbout": "theworld"
+            "variableName": "cscr01",
+            "isAbout": "cscr01"
         },
         {
             "variableName": "ctlo0",
@@ -75,7 +75,7 @@
     ],
     "ui": {
         "order": [
-            "theworld",
+            "cscr01",
             "ctlo0",
             "dctlo027",
             "dctlo028",
@@ -93,7 +93,7 @@
         ],
         "shuffle": false,
         "visibility": {
-            "theworld": true,
+            "cscr01": true,
             "ctlo0": true,
             "dctlo027": " ctlo0   == '0'",
             "dctlo028": " ctlo0   == '0'",
