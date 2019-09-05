@@ -101,15 +101,6 @@ INTERVIEWER: If child/parent endorses treatment of any kind, identify the primar
 ctlo_end,timeline,,text,"
 INTERVIEWER: END Timeline section.
 ",,,,,,,,,,,,,
-cscr0,screener,GENERAL PROBES,text,"
-
-
-INTERVIEWER: Use timeline to date treatment, symptoms, etc. 
-
-
-
-
-",,,,,,,,,,,,,
 dcscr005,screener,TREATMENT,radio,"Have you ever talked to a counselor, psychologist, social worker, psychiatrist or some other professional about your feelings or problems with your mood or behaviors? Or are you currently taking medication because of your emotions and/or behaviors?","0, No | 1, Yes | 9, Unk",,,,,,,,LH,,,,
 dcscr006,screener,TREATMENT,notes,Who was it and why did you speak to them?,,,,,,,[dcscr005] = '1',,LH,,,,
 dcscr007,screener,TREATMENT,text,"How many separate times did you go to see someone?
