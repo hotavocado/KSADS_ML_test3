@@ -2,6 +2,10 @@
     "@context": {
         "@version": 1.1,
         "timeline": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_test3/cond2/activities/timeline/items/",
+        "theworld": {
+            "@id": "timeline:theworld.jsonld",
+            "@type": "@id"
+        },
         "ctlo0": {
             "@id": "timeline:ctlo0.jsonld",
             "@type": "@id"
