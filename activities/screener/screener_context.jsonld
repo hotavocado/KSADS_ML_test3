@@ -2,8 +2,8 @@
     "@context": {
         "@version": 1.1,
         "screener": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_test3/cond2/activities/screener/items/",
-        "cscr01": {
-            "@id": "screener:cscr01.jsonld",
+        "starplachna": {
+            "@id": "screener:starplachna.jsonld",
             "@type": "@id"
         },
         "dcscr005": {
