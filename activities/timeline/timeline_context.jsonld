@@ -57,22 +57,6 @@
         "dctlo041": {
             "@id": "timeline:dctlo041.jsonld",
             "@type": "@id"
-        },
-        "dctlo042": {
-            "@id": "timeline:dctlo042.jsonld",
-            "@type": "@id"
-        },
-        "dctlo043": {
-            "@id": "timeline:dctlo043.jsonld",
-            "@type": "@id"
-        },
-        "dctlo044": {
-            "@id": "timeline:dctlo044.jsonld",
-            "@type": "@id"
-        },
-        "dctlo045": {
-            "@id": "timeline:dctlo045.jsonld",
-            "@type": "@id"
         }
     }
 }

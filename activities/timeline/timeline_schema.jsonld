@@ -67,22 +67,6 @@
         {
             "variableName": "dctlo041",
             "isAbout": "dctlo041"
-        },
-        {
-            "variableName": "dctlo042",
-            "isAbout": "dctlo042"
-        },
-        {
-            "variableName": "dctlo043",
-            "isAbout": "dctlo043"
-        },
-        {
-            "variableName": "dctlo044",
-            "isAbout": "dctlo044"
-        },
-        {
-            "variableName": "dctlo045",
-            "isAbout": "dctlo045"
         }
     ],
     "ui": {
@@ -100,11 +84,7 @@
             "dctlo38",
             "dctlo039",
             "dctlo040",
-            "dctlo041",
-            "dctlo042",
-            "dctlo043",
-            "dctlo044",
-            "dctlo045"
+            "dctlo041"
         ],
         "shuffle": false,
         "visibility": {
@@ -121,11 +101,7 @@
             "dctlo38": " ctlo0   == '0'",
             "dctlo039": " ctlo0   == '0'",
             "dctlo040": " ctlo0   == '0'",
-            "dctlo041": " ctlo0   == '0'",
-            "dctlo042": true,
-            "dctlo043": " dctlo042   == '1'",
-            "dctlo044": " dctlo042   == '1'",
-            "dctlo045": " dctlo042   == '1'"
+            "dctlo041": " ctlo0   == '0'"
         }
     }
 }
