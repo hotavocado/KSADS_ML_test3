@@ -1,11 +1,6 @@
 {
 "@context": {
-  "activity_path": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_test3/test1/activities/",
-  
-  "register_interview_child_psychiatric": {
-    "@id": "activity_path:register_interview_child_psychiatric/register_interview_child_psychiatric_schema.jsonld",
-    "@type": "@id"
-  },
+  "activity_path": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_test3/cond2/activities/",
 
    "screener": {
     "@id": "activity_path:screener/screener_schema.jsonld",
@@ -15,12 +10,9 @@
    "timeline": {
     "@id": "activity_path:timeline/timeline_schema.jsonld",
     "@type": "@id"
-  },
-
-   "major_depression": {
-    "@id": "activity_path:major_depression/major_depression_schema.jsonld",
-    "@type": "@id"
   }
+
+
 
 }
 }
