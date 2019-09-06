@@ -6,8 +6,8 @@
             "@id": "timeline:ctlo1.jsonld",
             "@type": "@id"
         },
-        "dctlo0": {
-            "@id": "timeline:dctlo0.jsonld",
+        "ctlo0": {
+            "@id": "timeline:ctlo0.jsonld",
             "@type": "@id"
         },
         "dctlo027": {
