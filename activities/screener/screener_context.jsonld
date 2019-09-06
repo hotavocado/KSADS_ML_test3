@@ -2,6 +2,10 @@
     "@context": {
         "@version": 1.1,
         "screener": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_test3/cond2/activities/screener/items/",
+        "xscr01": {
+            "@id": "screener:xscr01.jsonld",
+            "@type": "@id"
+        },
         "dcscr005": {
             "@id": "screener:dcscr005.jsonld",
             "@type": "@id"
