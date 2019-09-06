@@ -2,24 +2,8 @@
     "@context": {
         "@version": 1.1,
         "timeline": "https://raw.githubusercontent.com/hotavocado/KSADS_ML_test3/cond2/activities/timeline/items/",
-        "ctlo1": {
-            "@id": "timeline:ctlo1.jsonld",
-            "@type": "@id"
-        },
-        "dctlo042": {
-            "@id": "timeline:dctlo042.jsonld",
-            "@type": "@id"
-        },
-        "dctlo043": {
-            "@id": "timeline:dctlo043.jsonld",
-            "@type": "@id"
-        },
-        "dctlo044": {
-            "@id": "timeline:dctlo044.jsonld",
-            "@type": "@id"
-        },
-        "dctlo045": {
-            "@id": "timeline:dctlo045.jsonld",
+        "ctlo01": {
+            "@id": "timeline:ctlo01.jsonld",
             "@type": "@id"
         },
         "ctlo0": {
@@ -28,54 +12,6 @@
         },
         "dctlo027": {
             "@id": "timeline:dctlo027.jsonld",
-            "@type": "@id"
-        },
-        "dctlo028": {
-            "@id": "timeline:dctlo028.jsonld",
-            "@type": "@id"
-        },
-        "dctlo031": {
-            "@id": "timeline:dctlo031.jsonld",
-            "@type": "@id"
-        },
-        "dctlo032": {
-            "@id": "timeline:dctlo032.jsonld",
-            "@type": "@id"
-        },
-        "dctlo33": {
-            "@id": "timeline:dctlo33.jsonld",
-            "@type": "@id"
-        },
-        "dctlo34": {
-            "@id": "timeline:dctlo34.jsonld",
-            "@type": "@id"
-        },
-        "dctlo35": {
-            "@id": "timeline:dctlo35.jsonld",
-            "@type": "@id"
-        },
-        "dctlo36": {
-            "@id": "timeline:dctlo36.jsonld",
-            "@type": "@id"
-        },
-        "dctlo37": {
-            "@id": "timeline:dctlo37.jsonld",
-            "@type": "@id"
-        },
-        "dctlo38": {
-            "@id": "timeline:dctlo38.jsonld",
-            "@type": "@id"
-        },
-        "dctlo039": {
-            "@id": "timeline:dctlo039.jsonld",
-            "@type": "@id"
-        },
-        "dctlo040": {
-            "@id": "timeline:dctlo040.jsonld",
-            "@type": "@id"
-        },
-        "dctlo041": {
-            "@id": "timeline:dctlo041.jsonld",
             "@type": "@id"
         }
     }

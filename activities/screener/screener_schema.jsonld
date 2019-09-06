@@ -13,8 +13,8 @@
     "scoringLogic": {},
     "variableMap": [
         {
-            "variableName": "xscr01",
-            "isAbout": "xscr01"
+            "variableName": "cscr01",
+            "isAbout": "cscr01"
         },
         {
             "variableName": "dcscr005",
@@ -23,67 +23,19 @@
         {
             "variableName": "dcscr006",
             "isAbout": "dcscr006"
-        },
-        {
-            "variableName": "dcscr007",
-            "isAbout": "dcscr007"
-        },
-        {
-            "variableName": "dcscr008",
-            "isAbout": "dcscr008"
-        },
-        {
-            "variableName": "dcscr009",
-            "isAbout": "dcscr009"
-        },
-        {
-            "variableName": "dcscr010",
-            "isAbout": "dcscr010"
-        },
-        {
-            "variableName": "dcscr011",
-            "isAbout": "dcscr011"
-        },
-        {
-            "variableName": "dcscr012",
-            "isAbout": "dcscr012"
-        },
-        {
-            "variableName": "dcscr013",
-            "isAbout": "dcscr013"
-        },
-        {
-            "variableName": "cscr01",
-            "isAbout": "cscr01"
         }
     ],
     "ui": {
         "order": [
-            "xscr01",
+            "cscr01",
             "dcscr005",
-            "dcscr006",
-            "dcscr007",
-            "dcscr008",
-            "dcscr009",
-            "dcscr010",
-            "dcscr011",
-            "dcscr012",
-            "dcscr013",
-            "cscr01"
+            "dcscr006"
         ],
         "shuffle": false,
         "visibility": {
-            "xscr01": true,
+            "cscr01": true,
             "dcscr005": true,
-            "dcscr006": " dcscr005   == '1'",
-            "dcscr007": " dcscr005   == '1'",
-            "dcscr008": " dcscr005   == '1'",
-            "dcscr009": " dcscr005   == '1'",
-            "dcscr010": " dcscr005   == '1'",
-            "dcscr011": " dcscr010   == '1'",
-            "dcscr012": " dcscr005   == '0' ||  dcscr010   == '0'",
-            "dcscr013": " dcscr012   == '1'",
-            "cscr01": true
+            "dcscr006": " dcscr005   == '1'"
         }
     }
 }
