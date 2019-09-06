@@ -51,10 +51,6 @@
         {
             "variableName": "dcscr013",
             "isAbout": "dcscr013"
-        },
-        {
-            "variableName": "cscr01",
-            "isAbout": "cscr01"
         }
     ],
     "ui": {
@@ -68,8 +64,7 @@
             "dcscr010",
             "dcscr011",
             "dcscr012",
-            "dcscr013",
-            "cscr01"
+            "dcscr013"
         ],
         "shuffle": false,
         "visibility": {
@@ -82,8 +77,7 @@
             "dcscr010": " dcscr005   == '1'",
             "dcscr011": " dcscr010   == '1'",
             "dcscr012": " dcscr005   == '0' ||  dcscr010   == '0'",
-            "dcscr013": " dcscr012   == '1'",
-            "cscr01": true
+            "dcscr013": " dcscr012   == '1'"
         }
     }
 }

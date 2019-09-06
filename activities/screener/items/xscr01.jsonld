@@ -7,9 +7,6 @@
     "ui": {
         "inputType": "text"
     },
-    "question": {
-        "en": "3.29"
-    },
     "responseOptions": {
         "minValue": "",
         "maxValue": "",
