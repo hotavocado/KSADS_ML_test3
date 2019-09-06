@@ -73,8 +73,8 @@
             "isAbout": "dctlo041"
         },
         {
-            "variableName": "dctlo042",
-            "isAbout": "dctlo042"
+            "variableName": "dxtlo042",
+            "isAbout": "dxtlo042"
         },
         {
             "variableName": "dctlo043",
@@ -106,7 +106,7 @@
             "dctlo039",
             "dctlo040",
             "dctlo041",
-            "dctlo042",
+            "dxtlo042",
             "dctlo043",
             "dctlo044",
             "dctlo045"
@@ -128,10 +128,10 @@
             "dctlo039": " ctlo0   == '0'",
             "dctlo040": " ctlo0   == '0'",
             "dctlo041": " ctlo0   == '0'",
-            "dctlo042": true,
-            "dctlo043": " dctlo042   == '1'",
-            "dctlo044": " dctlo042   == '1'",
-            "dctlo045": " dctlo042   == '1'"
+            "dxtlo042": true,
+            "dctlo043": " dxtlo042   == '1'",
+            "dctlo044": " dxtlo042   == '1'",
+            "dctlo045": " dxtlo042   == '1'"
         }
     }
 }
