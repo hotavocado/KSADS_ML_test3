@@ -3,12 +3,18 @@
         "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
-    "skos:altLabel": "cscr01",
+    "skos:altLabel": "dcscr009",
+    "preamble": {
+        "en": "TREATMENT"
+    },
     "ui": {
         "inputType": "text"
     },
     "question": {
-        "en": "3.36\n\n\n\n"
+        "en": "About how many talk sessions did you have in total?"
+    },
+    "schema:description": {
+        "en": "NUMBER"
     },
     "responseOptions": {
         "minValue": "",
