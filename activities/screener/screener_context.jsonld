@@ -41,6 +41,10 @@
         "dcscr013": {
             "@id": "screener:dcscr013.jsonld",
             "@type": "@id"
+        },
+        "cscr01": {
+            "@id": "screener:cscr01.jsonld",
+            "@type": "@id"
         }
     }
 }

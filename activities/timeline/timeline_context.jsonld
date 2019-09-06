@@ -6,8 +6,8 @@
             "@id": "timeline:ctlo1.jsonld",
             "@type": "@id"
         },
-        "dctlo0": {
-            "@id": "timeline:dctlo0.jsonld",
+        "ctlo0": {
+            "@id": "timeline:ctlo0.jsonld",
             "@type": "@id"
         },
         "dctlo027": {
@@ -60,6 +60,22 @@
         },
         "dctlo041": {
             "@id": "timeline:dctlo041.jsonld",
+            "@type": "@id"
+        },
+        "dctlo042": {
+            "@id": "timeline:dctlo042.jsonld",
+            "@type": "@id"
+        },
+        "dctlo043": {
+            "@id": "timeline:dctlo043.jsonld",
+            "@type": "@id"
+        },
+        "dctlo044": {
+            "@id": "timeline:dctlo044.jsonld",
+            "@type": "@id"
+        },
+        "dctlo045": {
+            "@id": "timeline:dctlo045.jsonld",
             "@type": "@id"
         }
     }

@@ -3,15 +3,15 @@
         "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
-    "skos:altLabel": "dctlo0",
+    "skos:altLabel": "dctlo043",
     "preamble": {
-        "en": "\n SCHOOL FUNCTIONING\n\n"
+        "en": "\n\n PARENT ABOUT CHILD \n"
     },
     "ui": {
         "inputType": "radio"
     },
     "question": {
-        "en": "The next questions refer to the current school year (when on summer break refer to the past school year). Is the child out of high school?"
+        "en": "At home?"
     },
     "responseOptions": {
         "choices": [
@@ -24,7 +24,13 @@
             {
                 "schema:value": 1,
                 "schema:name": {
-                    "en": "Yes"
+                    "en": "Yes "
+                }
+            },
+            {
+                "schema:value": 9,
+                "schema:name": {
+                    "en": "Unk"
                 }
             }
         ],

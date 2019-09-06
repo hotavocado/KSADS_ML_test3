@@ -17,8 +17,8 @@
             "isAbout": "ctlo1"
         },
         {
-            "variableName": "dctlo0",
-            "isAbout": "dctlo0"
+            "variableName": "ctlo0",
+            "isAbout": "ctlo0"
         },
         {
             "variableName": "dctlo027",
@@ -71,12 +71,28 @@
         {
             "variableName": "dctlo041",
             "isAbout": "dctlo041"
+        },
+        {
+            "variableName": "dctlo042",
+            "isAbout": "dctlo042"
+        },
+        {
+            "variableName": "dctlo043",
+            "isAbout": "dctlo043"
+        },
+        {
+            "variableName": "dctlo044",
+            "isAbout": "dctlo044"
+        },
+        {
+            "variableName": "dctlo045",
+            "isAbout": "dctlo045"
         }
     ],
     "ui": {
         "order": [
             "ctlo1",
-            "dctlo0",
+            "ctlo0",
             "dctlo027",
             "dctlo028",
             "dctlo031",
@@ -89,25 +105,33 @@
             "dctlo38",
             "dctlo039",
             "dctlo040",
-            "dctlo041"
+            "dctlo041",
+            "dctlo042",
+            "dctlo043",
+            "dctlo044",
+            "dctlo045"
         ],
         "shuffle": false,
         "visibility": {
             "ctlo1": true,
-            "dctlo0": true,
-            "dctlo027": " dctlo0   == '0'",
-            "dctlo028": " dctlo0   == '0'",
-            "dctlo031": " dctlo0   == '0'",
-            "dctlo032": " dctlo0   == '0'",
-            "dctlo33": " dctlo0   == '0'",
-            "dctlo34": " dctlo0   == '0'",
-            "dctlo35": " dctlo0   == '0'",
-            "dctlo36": " dctlo0   == '0'",
-            "dctlo37": " dctlo0   == '0'",
-            "dctlo38": " dctlo0   == '0'",
-            "dctlo039": " dctlo0   == '0'",
-            "dctlo040": " dctlo0   == '0'",
-            "dctlo041": " dctlo0   == '0'"
+            "ctlo0": true,
+            "dctlo027": " ctlo0   == '0'",
+            "dctlo028": " ctlo0   == '0'",
+            "dctlo031": " ctlo0   == '0'",
+            "dctlo032": " ctlo0   == '0'",
+            "dctlo33": " ctlo0   == '0'",
+            "dctlo34": " ctlo0   == '0'",
+            "dctlo35": " ctlo0   == '0'",
+            "dctlo36": " ctlo0   == '0'",
+            "dctlo37": " ctlo0   == '0'",
+            "dctlo38": " ctlo0   == '0'",
+            "dctlo039": " ctlo0   == '0'",
+            "dctlo040": " ctlo0   == '0'",
+            "dctlo041": " ctlo0   == '0'",
+            "dctlo042": true,
+            "dctlo043": " dctlo042   == '1'",
+            "dctlo044": " dctlo042   == '1'",
+            "dctlo045": " dctlo042   == '1'"
         }
     }
 }
