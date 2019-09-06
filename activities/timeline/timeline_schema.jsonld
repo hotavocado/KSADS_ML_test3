@@ -17,6 +17,22 @@
             "isAbout": "ctlo1"
         },
         {
+            "variableName": "dctlo042",
+            "isAbout": "dctlo042"
+        },
+        {
+            "variableName": "dctlo043",
+            "isAbout": "dctlo043"
+        },
+        {
+            "variableName": "dctlo044",
+            "isAbout": "dctlo044"
+        },
+        {
+            "variableName": "dctlo045",
+            "isAbout": "dctlo045"
+        },
+        {
             "variableName": "ctlo0",
             "isAbout": "ctlo0"
         },
@@ -71,27 +87,15 @@
         {
             "variableName": "dctlo041",
             "isAbout": "dctlo041"
-        },
-        {
-            "variableName": "dxtlo042",
-            "isAbout": "dxtlo042"
-        },
-        {
-            "variableName": "dctlo043",
-            "isAbout": "dctlo043"
-        },
-        {
-            "variableName": "dctlo044",
-            "isAbout": "dctlo044"
-        },
-        {
-            "variableName": "dctlo045",
-            "isAbout": "dctlo045"
         }
     ],
     "ui": {
         "order": [
             "ctlo1",
+            "dctlo042",
+            "dctlo043",
+            "dctlo044",
+            "dctlo045",
             "ctlo0",
             "dctlo027",
             "dctlo028",
@@ -105,15 +109,15 @@
             "dctlo38",
             "dctlo039",
             "dctlo040",
-            "dctlo041",
-            "dxtlo042",
-            "dctlo043",
-            "dctlo044",
-            "dctlo045"
+            "dctlo041"
         ],
         "shuffle": false,
         "visibility": {
             "ctlo1": true,
+            "dctlo042": true,
+            "dctlo043": " dctlo042   == '1'",
+            "dctlo044": " dctlo042   == '1'",
+            "dctlo045": " dctlo042   == '1'",
             "ctlo0": true,
             "dctlo027": " ctlo0   == '0'",
             "dctlo028": " ctlo0   == '0'",
@@ -127,11 +131,7 @@
             "dctlo38": " ctlo0   == '0'",
             "dctlo039": " ctlo0   == '0'",
             "dctlo040": " ctlo0   == '0'",
-            "dctlo041": " ctlo0   == '0'",
-            "dxtlo042": true,
-            "dctlo043": " dxtlo042   == '1'",
-            "dctlo044": " dxtlo042   == '1'",
-            "dctlo045": " dxtlo042   == '1'"
+            "dctlo041": " ctlo0   == '0'"
         }
     }
 }
