@@ -23,19 +23,25 @@
         {
             "variableName": "dcscr006",
             "isAbout": "dcscr006"
+        },
+        {
+            "variableName": "dcscr007",
+            "isAbout": "dcscr007"
         }
     ],
     "ui": {
         "order": [
             "cscr01",
             "dcscr005",
-            "dcscr006"
+            "dcscr006",
+            "dcscr007"
         ],
         "shuffle": false,
         "visibility": {
             "cscr01": true,
             "dcscr005": true,
-            "dcscr006": " dcscr005   == '1'"
+            "dcscr006": " dcscr005   == '1'",
+            "dcscr007": " dcscr005   == '1'"
         }
     }
 }

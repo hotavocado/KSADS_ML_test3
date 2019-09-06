@@ -3,12 +3,18 @@
         "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
-    "skos:altLabel": "ctlo01",
+    "skos:altLabel": "dcscr007",
+    "preamble": {
+        "en": "TREATMENT"
+    },
     "ui": {
         "inputType": "text"
     },
     "question": {
-        "en": "3.34\n\n\n\n"
+        "en": "How many separate times did you go to see someone?\n\n\nINTERVIEWER: Clarify that these are distinct periods of outpatient services, not individual appointments.\n"
+    },
+    "schema:description": {
+        "en": "TIMES"
     },
     "responseOptions": {
         "minValue": "",
