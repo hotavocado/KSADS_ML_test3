@@ -41,7 +41,7 @@
             "cscr01": true,
             "dcscr005": true,
             "dcscr010": " dcscr005   == '1'",
-            "dcscr011": " dcscr010   == '1'"
+            "dcscr011": " dcscr005   == '1'"
         }
     }
 }
