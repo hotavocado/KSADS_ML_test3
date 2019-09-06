@@ -3,15 +3,9 @@
         "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
-    "skos:altLabel": "starplachna",
-    "preamble": {
-        "en": "STAR PLACHNA"
-    },
+    "skos:altLabel": "cscr01",
     "ui": {
         "inputType": "text"
-    },
-    "question": {
-        "en": "ORA ORA ORA ORA ORA ORA ORA ORA ORAAAA!!!!"
     },
     "responseOptions": {
         "minValue": "",
