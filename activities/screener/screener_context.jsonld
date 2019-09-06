@@ -17,6 +17,10 @@
         "dcscr007": {
             "@id": "screener:dcscr007.jsonld",
             "@type": "@id"
+        },
+        "dcscr008": {
+            "@id": "screener:dcscr008.jsonld",
+            "@type": "@id"
         }
     }
 }
