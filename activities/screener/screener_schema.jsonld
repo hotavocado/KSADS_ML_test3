@@ -21,22 +21,6 @@
             "isAbout": "dcscr005"
         },
         {
-            "variableName": "dcscr006",
-            "isAbout": "dcscr006"
-        },
-        {
-            "variableName": "dcscr007",
-            "isAbout": "dcscr007"
-        },
-        {
-            "variableName": "dcscr008",
-            "isAbout": "dcscr008"
-        },
-        {
-            "variableName": "dcscr009",
-            "isAbout": "dcscr009"
-        },
-        {
             "variableName": "dcscr010",
             "isAbout": "dcscr010"
         },
@@ -49,10 +33,6 @@
         "order": [
             "cscr01",
             "dcscr005",
-            "dcscr006",
-            "dcscr007",
-            "dcscr008",
-            "dcscr009",
             "dcscr010",
             "dcscr011"
         ],
@@ -60,10 +40,6 @@
         "visibility": {
             "cscr01": true,
             "dcscr005": true,
-            "dcscr006": " dcscr005   == '1'",
-            "dcscr007": " dcscr005   == '1'",
-            "dcscr008": " dcscr005   == '1'",
-            "dcscr009": " dcscr005   == '1'",
             "dcscr010": " dcscr005   == '1'",
             "dcscr011": " dcscr010   == '1'"
         }

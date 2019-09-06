@@ -10,22 +10,6 @@
             "@id": "screener:dcscr005.jsonld",
             "@type": "@id"
         },
-        "dcscr006": {
-            "@id": "screener:dcscr006.jsonld",
-            "@type": "@id"
-        },
-        "dcscr007": {
-            "@id": "screener:dcscr007.jsonld",
-            "@type": "@id"
-        },
-        "dcscr008": {
-            "@id": "screener:dcscr008.jsonld",
-            "@type": "@id"
-        },
-        "dcscr009": {
-            "@id": "screener:dcscr009.jsonld",
-            "@type": "@id"
-        },
         "dcscr010": {
             "@id": "screener:dcscr010.jsonld",
             "@type": "@id"

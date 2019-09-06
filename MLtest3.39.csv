@@ -1,0 +1,27 @@
+Variable / Field Name,Form Name,Section Header,Field Type,Field Label,"Choices, Calculations, OR Slider Labels",Field Note,Text Validation Type OR Show Slider Number,Text Validation Min,Text Validation Max,Identifier?,Branching Logic (Show field only if...),Required Field?,Custom Alignment,Question Number (surveys only),Matrix Group Name,Matrix Ranking?,Field Annotation
+ctlo01,timeline,,text,"3.39
+
+
+
+",,,,,,,,,,,,,
+ctlo0,timeline,"
+ SCHOOL FUNCTIONING
+
+",radio,The next questions refer to the current school year (when on summer break refer to the past school year). Is the child out of high school?,"0, No | 1, Yes",,,,,,,,RH,,,,
+dctlo027,timeline,,dropdown,Date at beginning of school year (Month),"1, 1 | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 | 8, 8 | 9, 9 | 10, 10 | 11, 11 | 12, 12 | 97, 97 | 98, 98 | 99, 99",MONTH,autocomplete,,,,[ctlo0] = '0',,,,,,
+cscr01,screener,,text,"3.39
+
+
+
+",,,,,,,,,,,,,
+dcscr005,screener,TREATMENT,radio,"Have you ever talked to a counselor, psychologist, social worker, psychiatrist or some other professional about your feelings or problems with your mood or behaviors? Or are you currently taking medication because of your emotions and/or behaviors?","0, No | 1, Yes | 9, Unk",,,,,,,,LH,,,,
+dcscr010,screener,"
+IN-PATIENT TREATMENT
+",radio,"Have you ever had to go to a hospital and stay overnight because of problems with your mood, feelings, or how you were acting?
+
+
+INTERVIEWER:  Refer to Table of Hospitalizations in the Medical History section. 
+","0, No | 1, Yes | 9, Unk",,,,,,[dcscr005] = '1',,LH,,,,
+dcscr011,screener,"
+IN-PATIENT TREATMENT
+",notes,When and what happened that lead to you going to the hospital?,,,,,,,[dcscr010] = '1',,LH,,,,
