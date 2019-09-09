@@ -31,10 +31,6 @@
         {
             "variableName": "dctlo043",
             "isAbout": "dctlo043"
-        },
-        {
-            "variableName": "dctlo044",
-            "isAbout": "dctlo044"
         }
     ],
     "ui": {
@@ -43,8 +39,7 @@
             "ctlo0",
             "dctlo027",
             "dctlo042",
-            "dctlo043",
-            "dctlo044"
+            "dctlo043"
         ],
         "shuffle": false,
         "visibility": {
@@ -52,8 +47,7 @@
             "ctlo0": true,
             "dctlo027": " ctlo0   == '0'",
             "dctlo042": true,
-            "dctlo043": " dctlo042   == '1'",
-            "dctlo044": " dctlo042   == '1'"
+            "dctlo043": " dctlo042   == '1'"
         }
     }
 }

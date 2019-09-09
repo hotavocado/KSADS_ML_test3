@@ -1,0 +1,26 @@
+Variable / Field Name,Form Name,Section Header,Field Type,Field Label,"Choices, Calculations, OR Slider Labels",Field Note,Text Validation Type OR Show Slider Number,Text Validation Min,Text Validation Max,Identifier?,Branching Logic (Show field only if...),Required Field?,Custom Alignment,Question Number (surveys only),Matrix Group Name,Matrix Ranking?,Field Annotation
+ctlo01,timeline,,text,"3.46
+
+
+
+",,,,,,,,,,,,,
+ctlo0,timeline,"
+ SCHOOL FUNCTIONING
+
+",radio,The next questions refer to the current school year (when on summer break refer to the past school year). Is the child out of high school?,"0, No | 1, Yes",,,,,,,,RH,,,,
+dctlo027,timeline,,dropdown,Date at beginning of school year (Month),"1, 1 | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6 | 7, 7 | 8, 8 | 9, 9 | 10, 10 | 11, 11 | 12, 12 | 97, 97 | 98, 98 | 99, 99",MONTH,autocomplete,,,,[ctlo0] = '0',,,,,,
+dctlo042,timeline,"
+
+ PARENT ABOUT CHILD 
+",radio,Does (child's name) have any serious problems?,"0, No | 1, Yes | 9, Unk",,,,,,,,,,dctlo042,,
+dctlo043,timeline,"
+
+ PARENT ABOUT CHILD 
+",radio,At home?,"0, No | 1, Yes | 9, Unk",,,,,,[dctlo042] = '1',,,,dctlo042,,
+cscr01,screener,,text,"3.46
+
+
+
+",,,,,,,,,,,,,
+dcscr005,screener,TREATMENT,radio,"Have you ever talked to a counselor, psychologist, social worker, psychiatrist or some other professional about your feelings or problems with your mood or behaviors? Or are you currently taking medication because of your emotions and/or behaviors?","0, No | 1, Yes | 9, Unk",,,,,,,,LH,,,,
+dcscr006,screener,TREATMENT,notes,Who was it and why did you speak to them?,,,,,,,[dcscr005] = '1',,LH,,,,
