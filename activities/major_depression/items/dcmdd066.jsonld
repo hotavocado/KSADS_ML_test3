@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcmdd066",
     "preamble": {
-        "en": "WORST EPISODE: MORBID THOUGHTS\nDuring this time:"
+        "en": "WORST EPISODE: MORBID THOUGHTS"
     },
     "ui": {
         "inputType": "radio"

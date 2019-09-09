@@ -3,15 +3,15 @@
         "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
-    "skos:altLabel": "cmdd22",
+    "skos:altLabel": "cmdd55a",
     "preamble": {
-        "en": "WORST EPISODE"
+        "en": "ATYPICAL EPISODES"
     },
     "ui": {
         "inputType": "text"
     },
     "question": {
-        "en": "\nPSYCHOSIS (EPISODE)\n\n\n\nDELUSIONS\n"
+        "en": "\nYou mentioned earlier that you had changes in your eating, sleeping, and sensitivity during the times that we discussed.  Did you have any of the following during other times that you were depressed that we did not talk about?"
     },
     "responseOptions": {
         "minValue": "",

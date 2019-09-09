@@ -5,13 +5,13 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcmdd088",
     "preamble": {
-        "en": "WORST EPISODE: MEDICAL\nWhen you were feeling (sad, grouchy, like nothing was fun):"
+        "en": "WORST EPISODE: MEDICAL"
     },
     "ui": {
         "inputType": "radio"
     },
     "question": {
-        "en": "Were you taking any medicines that your doctor told you to take? \nPROBE: Did you start taking the medicine before feeling sad/depressed or after? \n"
+        "en": "Were you taking any medicines that your doctor told you to take? \nPROBE: Did you start taking the medicine before feeling sad/depressed or after?"
     },
     "responseOptions": {
         "choices": [

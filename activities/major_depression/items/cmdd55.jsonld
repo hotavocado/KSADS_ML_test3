@@ -4,11 +4,14 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cmdd55",
+    "preamble": {
+        "en": "ATYPICAL EPISODES"
+    },
     "ui": {
         "inputType": "text"
     },
     "question": {
-        "en": "\nATYPICAL EPISODES\n\nINTERVIEWER: If episode coded was atypical in nature, i.e., the respondent had symptoms of mood reactivity, overeating, oversleeping, interpersonal sensitivity and leaden paralysis, proceed.\n"
+        "en": "\n\n\nINTERVIEWER: If episode coded was atypical in nature, i.e., the respondent had symptoms of mood reactivity, overeating, oversleeping, interpersonal sensitivity and leaden paralysis, proceed."
     },
     "responseOptions": {
         "minValue": "",

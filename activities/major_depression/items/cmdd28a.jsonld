@@ -3,15 +3,15 @@
         "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
-    "skos:altLabel": "cmdd18",
+    "skos:altLabel": "cmdd28a",
     "preamble": {
-        "en": "WORST EPISODE"
+        "en": "WORST EPISODE MEDICAL"
     },
     "ui": {
         "inputType": "text"
     },
     "question": {
-        "en": "\nCOGNITION\n"
+        "en": "When you were feeling (sad, grouchy, like nothing was fun):"
     },
     "responseOptions": {
         "minValue": "",

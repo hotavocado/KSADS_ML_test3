@@ -5,13 +5,13 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cmdd7",
     "preamble": {
-        "en": "WORST EPISODE"
+        "en": "WORST EPISODE: IRRITABLE MOOD/ANGER"
     },
     "ui": {
         "inputType": "text"
     },
     "question": {
-        "en": "\nIRRITABLE MOOD/ANGER\n"
+        "en": "During this time, did you:"
     },
     "responseOptions": {
         "minValue": "",

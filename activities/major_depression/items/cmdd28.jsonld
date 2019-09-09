@@ -5,13 +5,13 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cmdd28",
     "preamble": {
-        "en": "WORST EPISODE"
+        "en": "WORST EPISODE MEDICAL"
     },
     "ui": {
         "inputType": "text"
     },
     "question": {
-        "en": "\nASSOCIATED CONDITIONS (EPISODE)\n\nINTERVIEWER: Associated condition questions apply ONLY to episode being coded. \n\n\n\nMEDICAL\n"
+        "en": "\nASSOCIATED CONDITIONS (EPISODE)\nINTERVIEWER: Associated condition questions apply ONLY to episode being coded."
     },
     "responseOptions": {
         "minValue": "",

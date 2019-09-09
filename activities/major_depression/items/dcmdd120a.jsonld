@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
-    "skos:altLabel": "dcmdd125",
+    "skos:altLabel": "dcmdd120a",
     "preamble": {
         "en": "WORST EPISODE: HELP-SEEKING TREATMENT (LIFETIME)"
     },
@@ -11,7 +11,7 @@
         "inputType": "radio"
     },
     "question": {
-        "en": "Medications *Refer to Medication Card\nParticipant Card 9 (Medications)"
+        "en": "What kind of treatment(s) have you gotten?"
     },
     "responseOptions": {
         "choices": [

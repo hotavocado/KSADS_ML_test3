@@ -11,7 +11,7 @@
         "inputType": "text"
     },
     "question": {
-        "en": "\nINTERVIEWER: Record age of onset and offset of the first episode, the worst episode, and most recent episode on the timeline.\n"
+        "en": "\nINTERVIEWER: Record age of onset and offset of the first episode, the worst episode, and most recent episode on the timeline."
     },
     "responseOptions": {
         "minValue": "",

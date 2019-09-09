@@ -4,11 +4,14 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cmdd42",
+    "preamble": {
+        "en": "EPISODES/COURSE (LIFETIME)"
+    },
     "ui": {
         "inputType": "text"
     },
     "question": {
-        "en": "\nEPISODES/COURSE (LIFETIME)\n\nINTERVIEWER: The following questions about course address episodes of depression across the lifetime. \n"
+        "en": "\nINTERVIEWER: The following questions about course address episodes of depression across the lifetime."
     },
     "responseOptions": {
         "minValue": "",

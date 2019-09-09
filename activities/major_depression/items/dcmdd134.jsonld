@@ -11,7 +11,7 @@
         "inputType": "radio"
     },
     "question": {
-        "en": "\nINTERVIEWER: Is there more than one episode? \n"
+        "en": "\nINTERVIEWER: Is there more than one episode?"
     },
     "responseOptions": {
         "choices": [

@@ -11,7 +11,7 @@
         "inputType": "text"
     },
     "question": {
-        "en": "I want to know how much your depression and other symptoms caused problems for you. \n\nPlease look at the scale."
+        "en": "I want to know how much your depression and other symptoms caused problems for you. Please look at the scale. \n\nINTERVIEWER: Remind child how to use scale, if necessary, and assess areas most pertinent to the disorder; e.g. family, school, peers. Participant Card 8 (Distress/Impairment)"
     },
     "responseOptions": {
         "minValue": "",

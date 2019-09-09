@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cmdd51a",
     "preamble": {
-        "en": "\nDURATION OF EPISODES\n"
+        "en": "\nDURATION OF EPISODES"
     },
     "ui": {
         "inputType": "text"

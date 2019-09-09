@@ -11,7 +11,7 @@
         "inputType": "radio"
     },
     "question": {
-        "en": "Were you using alcohol often or drugs or both during this time?  \n\nPROBE: Did you increase how you use alcohol/drugs when you started feeling sad/depressed or were you using drugs/alcohol before you started to feel sad/depressed)? \n"
+        "en": "Were you using alcohol often or drugs or both during this time?  \n\nPROBE: Did you increase how you use alcohol/drugs when you started feeling sad/depressed or were you using drugs/alcohol before you started to feel sad/depressed)?"
     },
     "responseOptions": {
         "choices": [

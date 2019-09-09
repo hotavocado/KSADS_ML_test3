@@ -4,11 +4,14 @@
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cmdd54",
+    "preamble": {
+        "en": "RETURN TO BASELINE"
+    },
     "ui": {
         "inputType": "text"
     },
     "question": {
-        "en": "\nEPISODE CHARACTERISTICS\n\nINTERVIEWER: You will probably want to draw a diagram of episodes to assess.  \n \n\n\nRETURN TO BASELINE\n\nI would now like to talk about the time in between the periods when you felt (sad, grouchy, like nothing was fun).\n"
+        "en": "I would now like to talk about the time in between the periods when you felt (sad, grouchy, like nothing was fun)."
     },
     "responseOptions": {
         "minValue": "",

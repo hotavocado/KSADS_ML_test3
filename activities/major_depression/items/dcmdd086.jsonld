@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcmdd086",
     "preamble": {
-        "en": "WORST EPISODE: MEDICAL\nWhen you were feeling (sad, grouchy, like nothing was fun):"
+        "en": "WORST EPISODE: MEDICAL"
     },
     "ui": {
         "inputType": "radio"

@@ -11,7 +11,7 @@
         "inputType": "text"
     },
     "question": {
-        "en": "\nINTERVIEWER: If No or Unknown, END Major Depression section.\n"
+        "en": "\nINTERVIEWER: If No or Unknown, END Major Depression section."
     },
     "responseOptions": {
         "minValue": "",

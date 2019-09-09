@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcmdd024",
     "preamble": {
-        "en": "WORST EPISODE: ANHEDONIA/LOSS OF INTEREST\nDuring this time, did you feel:"
+        "en": "WORST EPISODE: ANHEDONIA/LOSS OF INTEREST"
     },
     "ui": {
         "inputType": "radio"

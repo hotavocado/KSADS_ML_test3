@@ -11,7 +11,7 @@
         "inputType": "text"
     },
     "question": {
-        "en": "\n\nIf from multiple people:\n Who did you get help from the first time?"
+        "en": "\nIf from multiple people:\nWho did you get help from the first time?"
     },
     "responseOptions": {
         "minValue": "",
