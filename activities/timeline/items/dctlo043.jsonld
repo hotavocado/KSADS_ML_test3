@@ -3,15 +3,15 @@
         "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
-    "skos:altLabel": "dcscr010",
+    "skos:altLabel": "dctlo043",
     "preamble": {
-        "en": "\nIN-PATIENT TREATMENT\n"
+        "en": "\n\n PARENT ABOUT CHILD \n"
     },
     "ui": {
         "inputType": "radio"
     },
     "question": {
-        "en": "Have you ever had to go to a hospital and stay overnight because of problems with your mood, feelings, or how you were acting?\n\n\nINTERVIEWER:  Refer to Table of Hospitalizations in the Medical History section. \n"
+        "en": "At home?"
     },
     "responseOptions": {
         "choices": [
