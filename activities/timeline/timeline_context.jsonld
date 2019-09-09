@@ -25,10 +25,6 @@
         "dctlo044": {
             "@id": "timeline:dctlo044.jsonld",
             "@type": "@id"
-        },
-        "dctlo045": {
-            "@id": "timeline:dctlo045.jsonld",
-            "@type": "@id"
         }
     }
 }
