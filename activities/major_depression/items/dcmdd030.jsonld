@@ -5,7 +5,7 @@
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcmdd030",
     "preamble": {
-        "en": "WORST EPISODE: DIURNAL VARIATION\nWhat time of day:"
+        "en": "WORST EPISODE: DIURNAL VARIATION"
     },
     "ui": {
         "inputType": "radio"
