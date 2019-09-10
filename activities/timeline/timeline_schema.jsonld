@@ -47,7 +47,7 @@
             "ctlo0": true,
             "dctlo027": " ctlo0   == '0'",
             "dctlo042": true,
-            "dctlo043": " dctlo042   == '1'"
+            "dctlo043": " dxtlo042   == '1'"
         }
     }
 }
