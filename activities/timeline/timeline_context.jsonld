@@ -6,20 +6,20 @@
             "@id": "timeline:ctlo01.jsonld",
             "@type": "@id"
         },
+        "dctlo042": {
+            "@id": "timeline:dctlo042.jsonld",
+            "@type": "@id"
+        },
+        "dctlo043": {
+            "@id": "timeline:dctlo043.jsonld",
+            "@type": "@id"
+        },
         "ctlo0": {
             "@id": "timeline:ctlo0.jsonld",
             "@type": "@id"
         },
         "dctlo027": {
             "@id": "timeline:dctlo027.jsonld",
-            "@type": "@id"
-        },
-        "dxtlo042": {
-            "@id": "timeline:dxtlo042.jsonld",
-            "@type": "@id"
-        },
-        "dctlo043": {
-            "@id": "timeline:dctlo043.jsonld",
             "@type": "@id"
         }
     }
