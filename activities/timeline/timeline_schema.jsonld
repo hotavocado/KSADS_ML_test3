@@ -25,8 +25,8 @@
             "isAbout": "dctlo027"
         },
         {
-            "variableName": "dctlo042",
-            "isAbout": "dctlo042"
+            "variableName": "dxtlo042",
+            "isAbout": "dxtlo042"
         },
         {
             "variableName": "dctlo043",
@@ -38,7 +38,7 @@
             "ctlo01",
             "ctlo0",
             "dctlo027",
-            "dctlo042",
+            "dxtlo042",
             "dctlo043"
         ],
         "shuffle": false,
@@ -46,7 +46,7 @@
             "ctlo01": true,
             "ctlo0": true,
             "dctlo027": " ctlo0   == '0'",
-            "dctlo042": true,
+            "dxtlo042": true,
             "dctlo043": " dxtlo042   == '1'"
         }
     }
